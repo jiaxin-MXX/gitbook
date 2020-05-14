@@ -1,0 +1,14 @@
+{
+  "root":".",
+  "title" : "奶香萌鑫的gitbook",
+  "author":"奶香萌鑫",
+  "description" : "测试版本",
+  "gitbook" : ">=3.0.0",
+  "language" : "zh-hans",
+  "plugins":[
+    "-highlight",
+    "search",
+    "sharing",
+    "livereload"
+  ]
+}
